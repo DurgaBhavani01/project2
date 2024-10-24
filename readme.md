@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Durga Bhavani.
+This is created by Durga Bhavani.
